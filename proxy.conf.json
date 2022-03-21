@@ -1,0 +1,7 @@
+{
+    "/saxon": {
+        "target": "http://localhost:4224",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
